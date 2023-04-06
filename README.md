@@ -1,2 +1,2 @@
 
-# hello this is my first website that i host
+# Hello this is my first website that i host
